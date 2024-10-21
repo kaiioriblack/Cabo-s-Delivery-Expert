@@ -8,7 +8,7 @@
 ```
 - Membresia 
 - Grupo: Cabo´s Delivery Expert
-- Costo: `$50 pesos` 
+- Costo: $50 pesos 
 - Renovación: Cada lunes
 - Metódo de pago: Transferencia/deposito
 ```
