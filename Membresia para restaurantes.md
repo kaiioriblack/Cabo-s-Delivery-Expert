@@ -21,15 +21,13 @@ A pagar: $345
 
 Servicio a domicilio
 Recoger: centro Entrega: Lagunitas Listo en 10min
-a pagar $450 .
+a pagar $450
 ```
 
-
 ### Aplicación Delivery 
-
 - Play Store: [Dash Delivery](https://play.google.com/store/apps/details?id=com.nabiaa.dashdelivery). 
-- Datos que deberá agregar a la aplicación 
-- Ubicación donde se entregara el pedido 
-- Número de teléfono 
+- Datos que deberá agregar a la aplicación. 
+- Ubicación donde se entregara el pedido. 
+- Número de teléfono. 
 - 
 
