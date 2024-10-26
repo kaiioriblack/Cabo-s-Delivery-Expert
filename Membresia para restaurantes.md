@@ -10,8 +10,8 @@
 
 ### Servicio a domicilio:
 - Grupo de whatsapp prioritario. 
-- En cuanto tiempo toman el servicio de 1 a 3 minutos. 
-- Tiempo estimado de recolección para un pedido de 10 a 15 minutos.
+- Asignacion de servicio de 1-3 minutos. 
+- Tiempo estimado de recolección 10-15 minutos.
 
 > [!NOTE]
 > Nuestro servicio claro y bien organizado no solo mejora su experiencia, sino que también optimiza los tiempos de aceptación de pedidos por parte de nuestros repartidores, garantizando un servicio más rápido y eficiente para todos.
