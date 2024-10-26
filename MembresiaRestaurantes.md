@@ -23,7 +23,5 @@ Recoger: centro Entrega: Lagunitas Listo en 10min
 ```
 - ✓ Soporte con administradores.
 
-> Información: Un servicio claro implica un menor tiempo de recolección para los repartidores.
-
 > [!WARNING]
-> TEXT
+> Información: Un servicio claro implica un menor tiempo de recolección para los repartidores.
