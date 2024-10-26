@@ -21,7 +21,6 @@ Servicio a domicilio
 Recoger: centro Entrega: Lagunitas Listo en 10min
  a pagar $450 .
 ```
-- ✓ `Solictudes de servicio que no lleven la información seran eliminados`.
 - ✓ Soporte con administradores.
 - ✓ Cobertura de costo del producto 100% 1 pedido a la semana.
 
