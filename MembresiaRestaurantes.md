@@ -6,7 +6,7 @@
 - Costo $300 a la semana
 - Renovación: Cada lunes
 
-- Aplicación Android: [Dash Delivery] (https://play.google.com/store/apps/details?id=com.nabiaa.dashdelivery). 
+- Aplicación Android: [Dash Delivery](https://play.google.com/store/apps/details?id=com.nabiaa.dashdelivery). 
 - ✓ Grupo de reparto personalizado.
 - ✓ Tiempo estimado de recolección de 10 a 15 minutos.
 - ✓ Enviar su solicitud de servicio de la siguiente manera:
