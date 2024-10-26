@@ -26,5 +26,4 @@ Recoger: centro Entrega: Lagunitas Listo en 10min
 <br>
 
 > [!NOTE]
-> Quería compartir una sugerencia que podría mejorar la eficiencia de nuestro servicio conjunto.
-- Un servicio claro y bien organizado no solo beneficia a sus clientes, sino que también reduce el tiempo de espera para los repartidores, lo que a su vez mejora la experiencia general. los repartidores.
+> Un servicio claro y bien organizado no solo beneficia a sus clientes, sino que también reduce el tiempo de espera para los repartidores, lo que a su vez mejora la experiencia general.
