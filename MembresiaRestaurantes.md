@@ -1,25 +1,13 @@
 ![](https://img.shields.io/badge/Planes%20para%20restaurantes%20-%20servicio%20a%20domicilio-blue) ![](https://img.shields.io/badge/Versi%C3%B3n%20-%202.1-green)
 
 
-![]()
 
-
-### Sin membresia:
-- ✓ Grupo de reparto general.
-- ✓ Puede solicitar sus pedidos listo en 10min.
-- ✗ Mayor tiempo de espera para que un repartidor tome su servicio.
-- ✗ Recoleccion de 20 a 30min.
-- ✗ Sin soporte con los administradores.
-- ✗ No se repone ningun pedido dañado.
-
-Información: Los restaurantes esperan mas tiempo a que se recolecte su comida, los clientes esperan más tiempo a que se les entregue su pedido.
-
-
-### Con membresia:
+### Membresia:
 - Costo $300 a la semana
 - Renovación: Cada lunes
 
-- ✓ Grupo de reparto personalizado para 5 o 10 restaurantes y repartidores.
+- Aplicación Android: https://play.google.com/store/apps/details?id=com.nabiaa.dashdelivery
+- ✓ Grupo de reparto personalizado.
 - ✓ Tiempo estimado de recolección de 10 a 15 minutos.
 - ✓ Enviar su solicitud de servicio de la siguiente manera:
 ```
