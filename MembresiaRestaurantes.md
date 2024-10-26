@@ -3,7 +3,7 @@
 
 
 ### Membresia:
-- Costo $300 a la semana
+- Costo **$300** a la semana
 - Renovación: Cada lunes
 
 - Aplicación Android: :globe_with_meridians: [Dash Delivery](https://play.google.com/store/apps/details?id=com.nabiaa.dashdelivery). 
