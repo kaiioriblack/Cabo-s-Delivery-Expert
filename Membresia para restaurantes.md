@@ -30,7 +30,10 @@ a pagar $450
 ```
 
 ### Nuestra App de Entrega: Dash Delivery
-- Descargue desde Play Store: [Dash Delivery](https://play.google.com/store/apps/details?id=com.nabiaa.dashdelivery). 
+- Cómo obtener la app:
+- Abra la Play Store en su dispositivo Android
+- Busque "[Dash Delivery](https://play.google.com/store/apps/details?id=com.nabiaa.dashdelivery)."
+- Descargue e instale la aplicación Dash Delivery
 - Información necesaria al hacer su pedido. 
 - Ubicación exacta de entrega. 
 - Número de teléfono del cliente. 
