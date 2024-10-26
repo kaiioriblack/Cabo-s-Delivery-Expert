@@ -9,7 +9,7 @@
 
 
 ### Servicio a domicilio:
-- Grupo de whatsapp. 
+- Grupo de whatsapp prioritario. 
 - En cuanto tiempo toman el servicio de 1 a 3 minutos. 
 - Tiempo estimado de recolección para un pedido de 10 a 15 minutos.
 
@@ -32,7 +32,7 @@ a pagar $450
 ### Aplicación Delivery 
 - Play Store: [Dash Delivery](https://play.google.com/store/apps/details?id=com.nabiaa.dashdelivery). 
 - Datos que deberá agregar a la aplicación. 
-- Ubicación donde se entregara el pedido. 
-- Número de teléfono del cliente. 
+- Ubicación exacta de entrega. 
+- Número de teléfono de contacto. 
 - Foto del pedido.
 
