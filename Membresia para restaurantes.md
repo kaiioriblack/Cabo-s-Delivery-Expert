@@ -28,6 +28,6 @@ a pagar $450
 - Play Store: [Dash Delivery](https://play.google.com/store/apps/details?id=com.nabiaa.dashdelivery). 
 - Datos que deberá agregar a la aplicación. 
 - Ubicación donde se entregara el pedido. 
-- Número de teléfono. 
+- Número de teléfono del cliente. 
 - 
 
