@@ -34,5 +34,5 @@ a pagar $450
 - Datos que deberá agregar a la aplicación. 
 - Ubicación donde se entregara el pedido. 
 - Número de teléfono del cliente. 
-- 
+- Foto del pedido.
 
