@@ -22,6 +22,6 @@ Recoger: centro Entrega: Lagunitas Listo en 10min
  a pagar $450 .
 ```
 - ✓ Soporte con administradores.
-
+<br>
 > [!NOTE]
 > Información: Un servicio claro implica un menor tiempo de recolección para los repartidores.
