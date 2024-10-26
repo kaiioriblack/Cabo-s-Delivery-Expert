@@ -29,7 +29,7 @@ Recoger: centro Entrega: Lagunitas Listo en 10min
 a pagar $450
 ```
 
-### Nuestra App de entrega: Dash Delivery
+### Nuestra App de Entrega: Dash Delivery
 - Descargue desde Play Store: [Dash Delivery](https://play.google.com/store/apps/details?id=com.nabiaa.dashdelivery). 
 - Datos que deberá agregar a la aplicación. 
 - Ubicación exacta de entrega. 
