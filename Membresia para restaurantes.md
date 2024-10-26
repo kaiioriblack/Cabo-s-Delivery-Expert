@@ -14,7 +14,7 @@
 - Tiempo estimado de recolección para un pedido de 10 a 15 minutos.
 
 > [!NOTE]
-> Un servicio claro y bien organizado no solo beneficia a sus clientes, sino que también reduce el tiempo de espera para que los repartidores acepten el pedido, lo que a su vez mejora la experiencia general.
+> Nuestro servicio claro y bien organizado no solo mejora su experiencia, sino que también optimiza los tiempos de aceptación de pedidos por parte de nuestros repartidores, garantizando un servicio más rápido y eficiente para todos.
 
 - Enviar su solicitud de servicio de la siguiente manera:
 ```
