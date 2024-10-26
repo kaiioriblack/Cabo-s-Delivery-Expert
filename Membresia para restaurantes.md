@@ -1,5 +1,7 @@
 ![](https://img.shields.io/badge/Membresia%20para%20restaurantes%20-%20servicio%20a%20domicilio-red) 
 ![](https://img.shields.io/badge/Play%20Store%20-%20Dash%20Delivery-green) 
+![](https://img.shields.io/badge/Versi%C3%B3n-2.1-brown
+)
 
 ### Membresia Semanal:
 - Costo: **$300**
