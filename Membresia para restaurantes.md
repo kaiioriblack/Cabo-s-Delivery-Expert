@@ -4,7 +4,7 @@
 )
 
 ### Membresia Semanal:
-- Costo: **$300**
+- Costo: **250**
 - Renovación: Cada lunes
 
 
